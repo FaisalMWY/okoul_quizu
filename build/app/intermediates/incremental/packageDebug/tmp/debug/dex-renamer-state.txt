@@ -1,0 +1,4 @@
+#Wed Sep 21 20:20:16 AST 2022
+base.0=/home/faisalmwy/development/projects/quizu_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

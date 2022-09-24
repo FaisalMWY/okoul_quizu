@@ -1,0 +1,14 @@
+/home/faisalmwy/development/projects/quizu_app/build/linux/x64/debug/bundle/quizu_app
+/home/faisalmwy/development/projects/quizu_app/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/faisalmwy/development/projects/quizu_app/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/faisalmwy/development/projects/quizu_app/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/faisalmwy/development/projects/quizu_app/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/faisalmwy/development/projects/quizu_app/build/linux/x64/debug/bundle/data/flutter_assets/assets/svgs/login_welcome_image.svg
+/home/faisalmwy/development/projects/quizu_app/build/linux/x64/debug/bundle/data/flutter_assets/assets/svgs/otp.svg
+/home/faisalmwy/development/projects/quizu_app/build/linux/x64/debug/bundle/data/flutter_assets/assets/images/login_image.png
+/home/faisalmwy/development/projects/quizu_app/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/faisalmwy/development/projects/quizu_app/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/faisalmwy/development/projects/quizu_app/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/faisalmwy/development/projects/quizu_app/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/faisalmwy/development/projects/quizu_app/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/faisalmwy/development/projects/quizu_app/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
